@@ -47,4 +47,5 @@ pause`
 📄 Лицензия
 
 Проект распространяется под лицензией MIT. Вы можете свободно использовать и изменять этот код.
-![Created by BAGETABC](preview.gif)
+![Created by BAGETABC](preview.gif) CREATED BY BAGETABC
+                                    
