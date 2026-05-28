@@ -46,5 +46,5 @@ pause`
 
 
 
-![Created by BAGETABC](preview.gif) CREATED BY BAGETABC
+<img src="preview.gif" width="100" alt="CREATED BY BAGETABC">
                                     
