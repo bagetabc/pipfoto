@@ -46,5 +46,17 @@ pause`
 
 
 
-<img src="preview.gif" width="100" alt="CREATED BY BAGETABC">
+<img src="preview.gif" style="width: 100%; height: 100px; object-fit: cover; border-radius: 15px;" alt="CREATED BY BAGETABC">
+<img src="preview.gif" style="width: 100%; height: 100px; object-fit: cover; border-radius: 15px;" alt="CREATED BY BAGETABC">
+<img src="preview.gif" style="width: 100%; height: 100px; object-fit: cover; border-radius: 15px;" alt="CREATED BY BAGETABC">
+<img src="preview.gif" style="width: 100%; height: 100px; object-fit: cover; border-radius: 15px;" alt="CREATED BY BAGETABC">
+<img src="preview.gif" style="width: 100%; height: 100px; object-fit: cover; border-radius: 15px;" alt="CREATED BY BAGETABC">
+<img src="preview.gif" style="width: 100%; height: 100px; object-fit: cover; border-radius: 15px;" alt="CREATED BY BAGETABC">
+<img src="preview.gif" style="width: 100%; height: 100px; object-fit: cover; border-radius: 15px;" alt="CREATED BY BAGETABC">
+<img src="preview.gif" style="width: 100%; height: 100px; object-fit: cover; border-radius: 15px;" alt="CREATED BY BAGETABC">
+<img src="preview.gif" style="width: 100%; height: 100px; object-fit: cover; border-radius: 15px;" alt="CREATED BY BAGETABC">
+<img src="preview.gif" style="width: 100%; height: 100px; object-fit: cover; border-radius: 15px;" alt="CREATED BY BAGETABC">
+<img src="preview.gif" style="width: 100%; height: 100px; object-fit: cover; border-radius: 15px;" alt="CREATED BY BAGETABC">
+<img src="preview.gif" style="width: 100%; height: 100px; object-fit: cover; border-radius: 15px;" alt="CREATED BY BAGETABC">
+<img src="preview.gif" style="width: 100%; height: 100px; object-fit: cover; border-radius: 15px;" alt="CREATED BY BAGETABC">
                                     
