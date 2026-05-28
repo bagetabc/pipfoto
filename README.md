@@ -48,7 +48,7 @@ pause`
 
 <img src="preview.gif" width="100%" style="height: 25px; object-fit: cover; border-radius: 15px;" alt="CREATED BY BAGETABC">
 <img src="preview.gif" width="100%" style="height: 50px; object-fit: cover; border-radius: 15px;" alt="CREATED BY BAGETABC">
-□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□К О Н Е Ц□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□
+□□□□□□□□□□□□□□□□□□□□□□К О Н Е Ц□□□□□□□□□□□□□□□□□□□□□
 <img src="preview.gif" width="100%" style="height: 75px; object-fit: cover; border-radius: 15px;" alt="CREATED BY BAGETABC">
 <img src="preview.gif" width="100%" style="height: 100px; object-fit: cover; border-radius: 15px;" alt="CREATED BY BAGETABC">
                                     
